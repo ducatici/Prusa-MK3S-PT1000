@@ -1,0 +1,6 @@
+FS v0.3 or older
+Please check the IR sensor connections and filament is unloaded.
+Sheet %.7s\x0aZ offset: %+1.3f mm\x0a%cContinue\x0a%cStart from zero
+unknown state
+Zaribo.com
+Zaribo MK3S-220

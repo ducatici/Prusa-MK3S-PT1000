@@ -1,0 +1,6 @@
+FS v0.3 or older
+Please check the IR sensor connections and filament is unloaded.
+Prusa BLACK MK3S PT
+Sheet %.7s\x0aZ offset: %+1.3f mm\x0a%cContinue\x0a%cStart from zero
+unknown state
+Zaribo.com
